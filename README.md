@@ -1,1 +1,1 @@
-link to live wbsite https://blairwachira.github.io/dice_roll/
+link to live wbsite 
