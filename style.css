@@ -24,7 +24,9 @@ h1 {
   height: 130px;
   line-height: 120px;
   text-align: center;
+  transition: transform 0.2s ease;
 }
+
 
 button {
   background-color: #4daac6;
@@ -38,4 +40,8 @@ button {
 
 button:hover {
   background-color: #3b92ad;
+}
+
+.roll-animation {
+  transform: rotate(15deg) scale(1.1);
 }
