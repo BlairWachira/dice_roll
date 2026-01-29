@@ -1,1 +1,1 @@
-link to live wbsite roll-dice-now.netlify.app
+link to live wbsite https://roll-dice-now.netlify.app/
